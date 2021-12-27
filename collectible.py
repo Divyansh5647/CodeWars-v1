@@ -28,3 +28,5 @@ class Collectible(Sprite):
             self.color = (200, 235, 0)
         else:
             self.color = (77, 255, 0)
+            
+            #extra line
